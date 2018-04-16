@@ -1,4 +1,4 @@
-# java itext替换PDF中的文本。
+## java itext替换PDF中的文本。
 #### 博客园：http://www.cnblogs.com/hooly/p/8569734.html
 ##### itext没有提供直接替换PDF文本的接口，我们可以通过在原有的文本区域覆盖一个遮挡层，再在上面加上文本来实现。
 ##### jar包在jars文件夹中，测试PDF在resource文件夹中，STSONG.TTF文件是Windows的一个中文字体。
